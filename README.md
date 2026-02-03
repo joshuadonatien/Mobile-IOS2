@@ -1,6 +1,6 @@
 # Project 1 - *TodoNow*
 
-Submitted by: **e**
+Submitted by: **Joshua Donatien**
 
 **TodoNow** is an app that helps users track and complete daily tasks by attaching photos as proof of completion and automatically recording the location where each task was finished.
 
@@ -35,8 +35,6 @@ Here's a walkthrough of implemented user stories:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3b8aac5b32764cf8b5e7cd0a459f98be" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
-
 ## Notes
 
 Challenges encountered while building the app:
@@ -53,6 +51,3 @@ Challenges encountered while building the app:
 
 6. **Simulator Testing**: Location services work differently in the simulator - had to set custom locations through Features → Location menu for testing.
 
-## License
-
-    
